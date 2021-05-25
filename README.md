@@ -1,6 +1,7 @@
 # Kitten Cluster ('Kitten' for shorthand)
 
 Knitting Interconnected Technical Tenants Enumerating Nonconformities 
+
 Coincidedly Labeling Unrelated Standards Towards Effective Remediation
 
 
